@@ -7,9 +7,9 @@
 
 
 ## Next steps
-* add more images, but not all stacked on top of each other
+* add more images, but not all stacked on top of each other ✔️
 * get the GitHub and Slack links to be clickable images
-* a menu on the side
+* a menu on the side ✔️
 * first blog post!
 
 ## This is my first forray into web development using simple HTML and CSS. 
